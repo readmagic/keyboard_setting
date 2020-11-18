@@ -8,7 +8,7 @@ GH61键盘映射
 
 1、 sudo pip3 install qmk
 
-2、 sudo apt install libusb-dev dfu-programmer dfu-util gcc-avr avrdude gcc-arm-none-eabi
+2、 sudo apt install libusb-dev dfu-programmer dfu-util gcc-avr avrdude gcc-arm-none-eabi avr-libc
 
 3、https://docs.qmk.fm/#/newbs_building_firmware
 
